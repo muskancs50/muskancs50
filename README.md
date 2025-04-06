@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muskan..
+- 👋 Hi, I’m Muskan
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning cs50..
 - I'm a Novice.
