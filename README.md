@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muskan
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning cs50..
-- I'm a Novice.
+- 🌱 I’m currently learning cpp by taking the course cs50..
+- Eager learner.
   
 
 
