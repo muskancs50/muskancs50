@@ -34,7 +34,7 @@
 ### 📬 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/muskan-kumari-0886b537b/)  
-- 📧 `your.email@example.com`
+- 📧 `211012muskan@gmail.com`
 
 ---
 
