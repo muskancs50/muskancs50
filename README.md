@@ -15,14 +15,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Muskan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muskancs50&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muskancs50&layout=compact&theme=tokyonight)
-
----
-
 ### 🌱 Currently Learning
 
 - C++ for DSA & problem solving  
